@@ -107,7 +107,9 @@
     https://huggingface.co/ClueAI/ChatYuan-large-v2/
 
     https://modelscope.cn/studios/ClueAI/ChatYuan-large-v2
-----------------------------
+
+
+
     yswm 发表于 2023-3-29 23:11
     有什么办法本地运行让它写代码吗？
 
